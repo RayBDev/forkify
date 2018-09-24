@@ -1,9 +1,8 @@
 <p align="center">
-    <img alt="Forkify Recipe App" src="https://github.com/RayBDev/forkify/blob/master/dist/img/logo.png" width="60" />
+    <img alt="Forkify Recipe App" src="https://github.com/RayBDev/forkify/blob/master/dist/img/logo.png" width="150" />
 </p>
-<h1 align="center">
-  Forkify Recipe App
-</h1>
+
+________________________________________
 
 The Forkify Recipe App allows users to search for recipes using the Food2Fork API. Users can view the recipe along with the cook time and also increase or decrease the amount of servings they need. At this point the user can favorite the recipe or even add it to their shopping list if they want to shop for more than one recipe. Favorite meals are stored in local storage so no database was required for this application.
 
